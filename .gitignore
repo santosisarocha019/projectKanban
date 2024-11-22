@@ -1,0 +1,5 @@
+# Ignorar o diretório 'env' na pasta BACK
+BACK/env/
+
+# Ignorar o diretório 'node_modules' na pasta FRONT/my-app
+FRONT/my-app/node_modules/
